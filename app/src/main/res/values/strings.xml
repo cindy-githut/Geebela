@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Geebela</string>
+
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>Find Taxi</item>
+        <item>Settings</item>
+        <item>Report Issue</item>
+        <item>Log Out</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_action_home</item>
+        <item>@drawable/ic_action_profile</item>
+        <item>@drawable/ic_action_search</item>
+        <item>@drawable/ic_action_settings</item>
+        <item>@drawable/ic_communication_report</item>
+        <item>@drawable/ico_logout</item>
+    </array>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_find_taxi">FindTaxi</string>
+</resources>

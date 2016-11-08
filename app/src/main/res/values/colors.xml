@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="appcolor">#DB5565</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_hint">#E0E0E0</color>
+    <color name="transparent">#80000000</color>
+    <color name="transparentblack">#9000</color>
+
+    <color name="green">#47A776</color>
+    <color name="orange">#F4AD49</color>
+    <color name="post_card_border_color">#E0E0E0</color>
+    <color name="base_blue_">#009DD7</color>
+    <color name="base_blue_darker">#0288D1</color>      <!-- 700 -->
+    <color name="base_blue">#0BACD3</color>
+
+
+</resources>

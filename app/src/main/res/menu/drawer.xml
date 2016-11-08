@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+
+        <item
+            android:id="@+id/starred"
+            android:checked="false"
+            android:icon="@drawable/ic_action_profile"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/inbox"
+            android:checked="false"
+            android:icon="@drawable/ic_action_home"
+            android:title="Change Password" />
+
+        <item
+            android:id="@+id/sent_mail"
+            android:checked="false"
+            android:icon="@drawable/ic_action_search"
+            android:title="Find Taxi" />
+
+        <item
+            android:id="@+id/drafts"
+            android:checked="false"
+            android:icon="@drawable/ic_action_settings"
+            android:title="Settings" />
+
+
+        <item
+            android:id="@+id/allmail"
+            android:checked="false"
+            android:icon="@drawable/ic_communication_report"
+            android:title="Report Issues" />
+        <item
+            android:id="@+id/trash"
+            android:checked="false"
+            android:icon="@drawable/ico_logout"
+            android:title="Log Out" />
+
+    </group>
+</menu>
